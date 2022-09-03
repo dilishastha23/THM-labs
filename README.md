@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # THM-rooms-cybersecuruty
 list of TryHackMe Free rooms with a guide to basic pathways.
 
@@ -772,3 +773,7 @@ https://tryhackme.com/room/sudovulnsbypass
 https://tryhackme.com/room/solar
 
 https://tryhackme.com/room/contiransomwarehgh
+=======
+# password-generator
+ 
+>>>>>>> refs/remotes/origin/main
